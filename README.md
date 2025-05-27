@@ -1,7 +1,6 @@
 # 📘 AI Project Documentation
 
 ## 📟 Table of Contents
-Doc should contains 
 1. Project contant
 2. Project code
 3. Key technologies
