@@ -74,12 +74,24 @@ This visual inspection step is crucial for verifying dataset contents before pro
 
 ## 🌟 Output:
 ![image](https://github.com/user-attachments/assets/19436fa3-47f9-4cae-896e-3f83761b28f5)
+![image](https://github.com/user-attachments/assets/599cf87f-368e-4b18-a4a2-ab6501383b07)
 
-
----
 
 ## 🚀 Further research
-To get started with MeetMate, ensure you have Python and Google Chrome installed. The system uses a combination of browser automation and speech recognition to process meetings.
+Advanced Image Preprocessing:
+Explore additional preprocessing techniques such as normalization, data augmentation (flipping, rotation, zoom), and color adjustments to improve model robustness.
+Automated Dataset Validation:
+Implement scripts to automatically detect and flag corrupted or mislabeled images, helping to clean large datasets without manual inspection.
+Batch Visualization:
+Create grid views or interactive galleries to preview many images simultaneously rather than one by one, improving dataset exploration efficiency.
+Integration with Annotation Tools:
+Combine with image annotation tools or labeling platforms to streamline dataset preparation and ground-truth labeling.
+Model Integration:
+Extend this visualization pipeline to include real-time model predictions on displayed images, assisting in debugging and understanding model performance.
+Cross-Platform Dataset Access:
+Research ways to mount and visualize datasets stored on other cloud platforms such as AWS S3, Azure Blob Storage, or local servers.
+Performance Optimization:
+Investigate efficient loading and rendering methods for very large datasets, including caching and lazy loading..
 
 ---
 
