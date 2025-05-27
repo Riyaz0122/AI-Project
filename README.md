@@ -41,6 +41,11 @@ for i in range(min(50, len(image_files))):
     plt.title(f"Image: {image_files[i]}")
     plt.axis('off')
     plt.show()
+```
+## 🌟 Output:
+![image](https://github.com/user-attachments/assets/19436fa3-47f9-4cae-896e-3f83761b28f5)
+
+'''python
 code for cat:
 import os
 import matplotlib.pyplot as plt
@@ -54,7 +59,10 @@ for i in range(min(50, len(image_files))):
     plt.title(f"Image: {image_files[i]}")
     plt.axis('off')
     plt.show()
-```
+    '''
+## 🌟 Output:
+![image](https://github.com/user-attachments/assets/599cf87f-368e-4b18-a4a2-ab6501383b07)
+    
 ## 🚀 Key Technologies
 
 Google Colab
@@ -73,12 +81,6 @@ This script enables you to quickly preview a collection of images stored in a Go
 This visual inspection step is crucial for verifying dataset contents before proceeding with tasks like model training or data preprocessing. It helps identify any corrupted files, mislabeled images, or inconsistencies in the dataset, improving the overall quality of your machine learning pipeline.
 
 ---
-
-## 🌟 Output:
-![image](https://github.com/user-attachments/assets/19436fa3-47f9-4cae-896e-3f83761b28f5)
-![image](https://github.com/user-attachments/assets/599cf87f-368e-4b18-a4a2-ab6501383b07)
-
-
 ## 🚀 Further research
 Advanced Image Preprocessing:
 Explore additional preprocessing techniques such as normalization, data augmentation (flipping, rotation, zoom), and color adjustments to improve model robustness.
