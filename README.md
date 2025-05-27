@@ -10,7 +10,9 @@
 ---
 
 # 🐶🐱 Dog and Cat Classification
+
 ## 📌 Project Content
+
 ```
 This script is designed to mount Google Drive in a Google Colab environment and then load and display images from a specific folder in your Drive.
 Drive Mounting:
