@@ -10,7 +10,7 @@
 ---
 
 # 🐶🐱 Dog and Cat Classification
-
+```
 ## 📌 Project Content
 This script is designed to mount Google Drive in a Google Colab environment and then load and display images from a specific folder in your Drive.
 Drive Mounting:
@@ -21,7 +21,7 @@ Image Listing:
 It scans the folder for image files with extensions .jpg, .jpeg, and .png.
 Image Loading & Display:
 The script loads up to the first 50 images, resizing each to 200x200 pixels using Keras’ load_img function. Each image is then displayed one by one using Matplotlib, with the filename shown as the title.
-
+```
 
 ## 🛠 Code
 ```python
@@ -62,7 +62,8 @@ for i in range(min(50, len(image_files))):
  ```
 ## 🌟 Output:
 ![image](https://github.com/user-attachments/assets/599cf87f-368e-4b18-a4a2-ab6501383b07)
-    
+
+```
 ## 🚀 Key Technologies
 
 Google Colab
@@ -79,8 +80,8 @@ Specifically tensorflow.keras.preprocessing.image.load_img for loading and resiz
 ## 📌 Description
 This script enables you to quickly preview a collection of images stored in a Google Drive folder when working in a Google Colab environment. After mounting your Google Drive, it scans a specified directory for common image file formats (.jpg, .jpeg, .png). It then loads each image, resizes it to a uniform size (200x200 pixels), and displays it using Matplotlib.
 This visual inspection step is crucial for verifying dataset contents before proceeding with tasks like model training or data preprocessing. It helps identify any corrupted files, mislabeled images, or inconsistencies in the dataset, improving the overall quality of your machine learning pipeline.
-
----
+```
+```
 ## 🚀 Further research
 Advanced Image Preprocessing:
 Explore additional preprocessing techniques such as normalization, data augmentation (flipping, rotation, zoom), and color adjustments to improve model robustness.
@@ -97,8 +98,8 @@ Research ways to mount and visualize datasets stored on other cloud platforms su
 Performance Optimization:
 Investigate efficient loading and rendering methods for very large datasets, including caching and lazy loading..
 
----
-
+```
+```
 ## 💠 Installation
 ### Requirements
 - Python 3.8+
