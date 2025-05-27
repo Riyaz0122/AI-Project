@@ -1,20 +1,13 @@
 # 📘 MeetMate Documentation
 
 ## 📟 Table of Contents
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Getting Started](#getting-started)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Configuration](#configuration)
-7. [Architecture](#architecture)
-8. [API Reference](#api-reference)
-9. [Examples](#examples)
-10. [Troubleshooting](#troubleshooting)
-11. [Contributing](#contributing)
-12. [License](#license)
-13. [Credits / Acknowledgments](#credits--acknowledgments)
-
+Doc should contains 
+1. Project contant
+2. Project code
+3. Key technologies
+3. Description
+4. Output 
+5. Further research 
 ---
 
 ## 📌 Overview
