@@ -80,11 +80,14 @@ TensorFlow Keras Preprocessing
 Specifically tensorflow.keras.preprocessing.image.load_img for loading and resizing images easily in deep learning workflows.
 
 ## 📌 Description
+
 ```
 This script enables you to quickly preview a collection of images stored in a Google Drive folder when working in a Google Colab environment. After mounting your Google Drive, it scans a specified directory for common image file formats (.jpg, .jpeg, .png). It then loads each image, resizes it to a uniform size (200x200 pixels), and displays it using Matplotlib.
-This visual inspection step is crucial for verifying dataset contents before proceeding with tasks like model training or data preprocessing. It helps identify any corrupted files, mislabeled images, or inconsistencies in the dataset, improving the overall quality of your machine learning pipeline.
-```
+This visual inspection step is crucial for verifying dataset contents before proceeding with tasks like model training or data preprocessing. It helps identify any corrupted files, mislabeled images, or inconsistencies in the dataset, improving the overall quality of your machine learning pipeline.```
+
+
 ## 🚀 Further research
+
 ```
 Advanced Image Preprocessing:
 Explore additional preprocessing techniques such as normalization, data augmentation (flipping, rotation, zoom), and color adjustments to improve model robustness.
@@ -99,15 +102,13 @@ Extend this visualization pipeline to include real-time model predictions on dis
 Cross-Platform Dataset Access:
 Research ways to mount and visualize datasets stored on other cloud platforms such as AWS S3, Azure Blob Storage, or local servers.
 Performance Optimization:
-Investigate efficient loading and rendering methods for very large datasets, including caching and lazy loading..
+Investigate efficient loading and rendering methods for very large datasets, including caching and lazy loading.
 
-```
 
 # 🏥 Healthcare XAI
 
 ### Project Content
-```
-### Project Content
+
 This project focuses on analyzing a healthcare dataset to predict key medical outcomes such as test results. It utilizes machine learning techniques including logistic regression and random forest, combined with model interpretability tools like LIME, SHAP, and ELI5 for deep insights.`, `openai`, `webrtcvad`
 ```
 
