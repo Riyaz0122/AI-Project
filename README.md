@@ -45,7 +45,7 @@ for i in range(min(50, len(image_files))):
 ## 🌟 Output:
 ![image](https://github.com/user-attachments/assets/19436fa3-47f9-4cae-896e-3f83761b28f5)
 
-'''python
+```python
 code for cat:
 import os
 import matplotlib.pyplot as plt
@@ -59,7 +59,7 @@ for i in range(min(50, len(image_files))):
     plt.title(f"Image: {image_files[i]}")
     plt.axis('off')
     plt.show()
-    '''
+ ```
 ## 🌟 Output:
 ![image](https://github.com/user-attachments/assets/599cf87f-368e-4b18-a4a2-ab6501383b07)
     
