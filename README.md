@@ -369,6 +369,7 @@ LIME / SHAP / ELI5 / Alibi: Model explanation and interpretability
 Matplotlib: Visualization of model results and explanations
 ```
 ## 🚀 Further research
+
 ```
 Explore Deep Learning Models: Implement deep learning architectures such as Convolutional Neural Networks (CNNs) or Recurrent Neural Networks (RNNs) for improved performance on complex healthcare data.
 Integrate with EHR Systems: Connect the model with real-world Electronic Health Record (EHR) systems for real-time insights and deployment in clinical environments.
@@ -378,4 +379,12 @@ Dashboard for Stakeholders: Create a web-based interactive dashboard using tools
 Fairness and Ethics: Conduct fairness audits and evaluate potential biases in predictions, especially across sensitive features like gender or ethnicity.
 Explainability Benchmarks: Compare performance of different model interpretability techniques (e.g., LIME vs SHAP vs ALE) on clinical decision-making effectiveness.
 ```
+
+
+
+## 🎬 IMDB DataSet
+
+
+
+
 
