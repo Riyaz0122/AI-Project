@@ -77,7 +77,8 @@ For file and directory operations like listing image files.
 Matplotlib
 A popular Python library for creating static, animated, and interactive visualizations.
 TensorFlow Keras Preprocessing
-Specifically tensorflow.keras.preprocessing.image.load_img for loading and resizing images easily in deep learning workflows.
+Specifically tensorflow.keras.preprocessing.image.load_img for loading and resizing images easily in deep learning workflows.```
+
 
 ## 📌 Description
 
