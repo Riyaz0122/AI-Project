@@ -1,4 +1,4 @@
-# 📘 MeetMate Documentation
+# 📘 AI Project Documentation
 
 ## 📟 Table of Contents
 Doc should contains 
