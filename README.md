@@ -22,7 +22,9 @@ It scans the folder for image files with extensions .jpg, .jpeg, and .png.
 Image Loading & Display:
 The script loads up to the first 50 images, resizing each to 200x200 pixels using Keras’ load_img function. Each image is then displayed one by one using Matplotlib, with the filename shown as the title.
 
+
 ## 🛠 Code
+```python
 from google.colab import drive
 drive.mount('/content/drive')
 
@@ -52,7 +54,7 @@ for i in range(min(50, len(image_files))):
     plt.title(f"Image: {image_files[i]}")
     plt.axis('off')
     plt.show()
-
+```
 ## 🚀 Key Technologies
 
 Google Colab
